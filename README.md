@@ -1,7 +1,11 @@
 ## ❌⭕ Tic Tac Toe Game (2-Player) ❌⭕
 
 Challenge your friends to a classic battle of wits with this interactive Tic Tac Toe game! Built using HTML, Tailwind-CSS, and JavaScript, this project brings the timeless game to your web browser, offering a fun and engaging experience for two players.
-
+- 
+![img1](./logo/img1.png)
+- 
+![img2](./logo/img2.png)
+- 
 ## ✨ Features
 
 - **2-Player Mode:** Experience the thrill of head-to-head competition as you and a friend take turns placing your marks (X or O) on the grid.
